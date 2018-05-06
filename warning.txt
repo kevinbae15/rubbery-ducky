@@ -1,0 +1,26 @@
+REM Author: Kevin Bae
+REM Description: Make a bunch of files
+DELAY 1000
+GUI SPACE
+DELAY 100
+STRING terminal
+DELAY 500
+ENTER
+DELAY 500
+STRING cd ~
+DELAY 500
+ENTER
+DELAY 500
+STRING vim WARNING.txt
+DELAY 500
+ENTER
+DELAY 500
+STRING i 
+DELAY 100
+STRING Hello! You have been hacked by a keystroke injection. This is a hack that can occur when someone plugs in a USB looking device and the device actually acts as a keyboard to inject from keystrokes. Nothing malicious will happen now, but in the future, do not, I repeat DO NOT use USBs that are unpackaged. A USB like this one has the ability to obtain passwords, wipe all the data from your memory, and gain root access to your computer without you even knowing!. In addtion, do not leave your latptop unattended! This device also gives the ability for hackers to do a hack in just a couple of seconds which seems very short in comparison to them manually typing in everything. Overall, I hope this has been a good lesson for you. You have been educated.
+DELAY 500
+ESC
+DELAY 500
+STRING :x
+DELAY 500
+ENTER
