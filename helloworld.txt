@@ -1,0 +1,5 @@
+REM Author: Kevin Bae
+REM Description: Hello World!
+DELAY 500
+STRING Hello World
+ENTER
